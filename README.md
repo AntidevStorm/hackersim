@@ -7,5 +7,7 @@ Hacker sim is a window where you can have the real hollywood hacker experience. 
 ## Dependencies
 
 Python (v3.x)
+
 A computer
+
 A keyboard
